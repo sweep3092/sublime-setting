@@ -1,28 +1,29 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
 	"default_line_ending": "unix",
+	"draw_indent_guides": true,
 	"fold_buttons": true,
 	"font_options":
 	[
 		"directwrite"
 	],
-	"font_size": 8,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Phoenix Dark.sublime-theme",
-	"phoenix_color_expanded_folder": true,
 	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
 	"phoenix_dirty_bottom_bar_red": true,
-	"phoenix_solid_current_tab": true,
 	"phoenix_sidebar_tree_medium": true,
+	"phoenix_solid_current_tab": true,
 	"phoenix_tabs_auto_width": true,
 	"phoenix_tabs_small": true,
-	
 	"tab_size": 2,
+	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true
 }
