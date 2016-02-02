@@ -1,38 +1,25 @@
 {
-  // デフォルトの改行コード
-  "default_line_ending": "unix",
-  // インデントの表示
-  "draw_indent_guides": true,
-  // 関数折りたたみなどのボタン表示
-  "fold_buttons": true,
-  // フォント描画の設定（Windowsで日本語がキレイに描画される）
-  "font_options":
-  [
-    "directwrite"
-  ],
-  // フォントサイズ
-  "font_size": 12,
-  // 選択中の行をハイライトする
-  "highlight_line": true,
-  // タブサイズ
-  "tab_size": 2,
-  // 保存時にタブをスペースに変換する
-  "translate_tabs_to_spaces": true,
-  "trim_automatic_white_space": true,
-  // 行末スペースを保存時に削除する
-  "trim_trailing_white_space_on_save": true,
-  "use_tab_stops": true,
-  // エンコードを表示する
-  "show_encoding": true,
-  // 改行コードを表示する
-  "show_line_endings": true,
-  // 未保存のタブをハイライトする
-  "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  // Color Scheme - Seti
-  "theme": "Cobalt2.sublime-theme",
-  "color_scheme": "Packages/User/SublimeLinter/Seti_monokai (SL).tmTheme"
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_line_ending": "unix",
+	"draw_indent_guides": true,
+	"fold_buttons": true,
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
 }
